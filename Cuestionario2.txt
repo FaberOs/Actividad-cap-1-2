@@ -75,3 +75,11 @@ adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
 Los protocolos desempeñan un papel fundamental en las comunicaciones de redes al establecer las reglas y los estándares que permiten a los dispositivos comunicarse entre sí de manera efectiva. Los protocolos definen cómo se deben enviar, recibir y procesar los datos en una red, asegurando que la información se transmita de manera confiable y eficiente.
 
 El proceso de encapsulamiento de los datos es el mecanismo mediante el cual los datos se envuelven en diferentes capas de protocolos a medida que descienden a través de la pila de protocolos. Cada capa agrega su propia información de control y encabezados a los datos originales, creando así una estructura de datos más compleja conocida como PDU. El encapsulamiento de los datos es esencial para el funcionamiento de las comunicaciones de redes, ya que permite que los datos sean transmitidos y procesados correctamente en cada capa. 
+
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de
+referencia.
+
+Un modelo de protocolo proporciona una representación específica de una suite de protocolos en particular. Este modelo se ajusta a la estructura y funcionalidad de esa suite de protocolos específica. Por ejemplo, el modelo TCP/IP es un modelo de protocolo que describe las funciones y procesos que ocurren en cada capa de los protocolos dentro de la suite TCP/IP.
+
+Por otro lado, un modelo de referencia proporciona una representación más general y abstracta de las funciones y procesos involucrados en las comunicaciones de red. No está diseñado para ser una especificación de implementación detallada, sino más bien para proporcionar una referencia común y una comprensión clara de las funciones y procesos involucrados en las comunicaciones de red. El modelo de referencia más conocido es el modelo de interconexión de sistemas abiertos (OSI), que se utiliza para el diseño de redes, especificaciones de funcionamiento y resolución de problemas
