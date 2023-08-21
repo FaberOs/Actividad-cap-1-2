@@ -83,3 +83,23 @@ referencia.
 Un modelo de protocolo proporciona una representación específica de una suite de protocolos en particular. Este modelo se ajusta a la estructura y funcionalidad de esa suite de protocolos específica. Por ejemplo, el modelo TCP/IP es un modelo de protocolo que describe las funciones y procesos que ocurren en cada capa de los protocolos dentro de la suite TCP/IP.
 
 Por otro lado, un modelo de referencia proporciona una representación más general y abstracta de las funciones y procesos involucrados en las comunicaciones de red. No está diseñado para ser una especificación de implementación detallada, sino más bien para proporcionar una referencia común y una comprensión clara de las funciones y procesos involucrados en las comunicaciones de red. El modelo de referencia más conocido es el modelo de interconexión de sistemas abiertos (OSI), que se utiliza para el diseño de redes, especificaciones de funcionamiento y resolución de problemas
+
+
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+En el modelo TCP/IP, las capas y sus funciones son las siguientes:
+
+Capa de Aplicación: Esta capa se encarga de proporcionar servicios de red a las aplicaciones y usuarios finales. Aquí es donde se encuentran los protocolos específicos de las aplicaciones, como HTTP para la web.
+Capa de Transporte: Esta capa se encarga de la entrega de datos de manera confiable y ordenada entre los dispositivos finales. El protocolo más común en esta capa es el Protocolo de Control de Transmisión (TCP).
+Capa de Internet: Esta capa se encarga del direccionamiento y enrutamiento de los paquetes de datos a través de la red. El protocolo principal en esta capa es el Protocolo de Internet (IP), que se encarga de asignar direcciones IP y enrutar los paquetes a través de la red.
+Capa de Acceso a la Red: Esta capa se encarga de la transmisión física de los datos a través del medio de red. Se ocupa de la conexión física y la transmisión de bits. Un ejemplo de protocolo en esta capa es Ethernet.
+
+En el modelo OSI, las capas y sus funciones son las siguientes:
+
+Capa de Aplicación: Esta capa proporciona los medios necesarios para la conectividad de extremo a extremo entre individuos de la red humana que usan redes de datos.
+Capa de Presentación: Esta capa se encarga de la representación común y el formato de los datos transferidos entre los servicios de la capa de Aplicación.
+Capa de Sesión: Esta capa se encarga de establecer, mantener y finalizar las sesiones de comunicación entre los dispositivos. Proporciona servicios de sincronización, control de diálogo y recuperación de errores. En esta capa se definen los protocolos de sesión, como el Protocolo de Control de Sesión (SCP).
+Capa de Transporte: Esta capa se encarga de la entrega de datos de manera confiable y ordenada entre los dispositivos finales. Se encarga de dividir los datos en segmentos más pequeños, proporcionar control de flujo y control de errores. En esta capa se definen los protocolos de transporte, como el Protocolo de Control de Transmisión (TCP) y el Protocolo de Datagramas de Usuario (UDP).
+Capa de Red: Esta capa se encarga del direccionamiento y enrutamiento de los paquetes de datos a través de la red. Se encarga de determinar la mejor ruta para enviar los datos. En esta capa se definen los protocolos de enrutamiento, como el Protocolo de Internet (IP), que asigna direcciones IP a los dispositivos y permite el enrutamiento de los paquetes a través de la red.
+Capa de Enlace de Datos: Esta capa se encarga de la transferencia confiable de datos entre nodos adyacentes en una red. Se encarga de la detección y corrección de errores, así como del control de flujo. En esta capa se definen los protocolos de acceso al medio, como Ethernet, que permiten la comunicación entre dispositivos en la misma red local.
+Capa Física: Esta capa se encarga de la transmisión física de los datos a través del medio de red. Se ocupa de la conexión física y la transmisión de bits. En esta capa se definen características como el tipo de cable, la topología de red y las señales eléctricas utilizadas para la transmisión de datos.
