@@ -1,0 +1,75 @@
+INTEGRANTES: Faber Ospina Cortes - Diego Alejandro Pazos Estrada
+
+ACTIVIDAD CAPITULO 1-2
+
+Preguntas de lectura: Capítulo 1
+
+1. Responda brevemente: 
+
+¿Qué son los datos?: Los datos son la información que se transmite a través de una red de computadoras. 
+A su vez, son la representación digital de cualquier tipo de información, como texto, imágenes, audio, 
+video, etc. Estos datos se dividen en paquetes pequeños antes de ser transmitidos a través de la red, 
+y luego se reensamblan en su destino final.
+
+¿Qué es una red de datos?: Es un conjunto de dispositivos interconectados que pueden comunicarse y 
+compartir información entre sí. Estos dispositivos pueden incluir computadoras, servidores, enrutadores 
+y otros dispositivos habilitados para la comunicación en red.
+
+¿Qué es una red convergente?: Es la combinación de diferentes tipos de tráfico de red, como datos, voz 
+y video, en una sola infraestructura de red. Esto implica la convergencia de servicios que antes se 
+ejecutaban en redes separadas en una única red unificada.
+
+2. Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, 
+calidad del servicio y seguridad. Mostrar sus respectivos ejemplos.
+
+Tolerancia a fallas: Es la capacidad de una red para continuar funcionando incluso cuando se producen 
+problemas, como fallos en los dispositivos o enlaces. 
+
+    - Esto se logra mediante la redundancia y la diversificación de rutas y componentes críticos.
+    - Ejemplo: Un router principal y un router secundario están configurados en paralelo. 
+        Si el enrutador principal falla, el tráfico de red se desvía automáticamente al enrutador 
+        secundario para mantener la conectividad.
+
+Escalabilidad: Es la capacidad de una red para crecer y adaptarse a medida que aumentan los requisitos 
+de tráfico y dispositivos conectados.
+
+    - Depende de un diseño jerárquico en capas para la infraestructura física subyacente y la arquitectura 
+        lógica. 
+    - El funcionamiento de cada capa permite a los usuarios y proveedores de servicios insertarse sin causar 
+        disrupción en toda la red.
+    - Ejemplo: Una red universitaria está diseñada con una topología modular que permite agregar nuevos 
+        edificios y usuarios sin afectar el rendimiento general de la red.
+
+Calidad del servicio (QoS): Se trata de garantizar que ciertos tipos de tráfico reciban prioridad en la red 
+para mantener un rendimiento adecuado y una experiencia de usuario satisfactoria.
+
+    - Ejemplo: Una red que implementa QoS para priorizar el tráfico de voz sobre IP (VoIP) para evitar 
+        retrasos y garantizar llamadas claras incluso en momentos de congestión de la red.
+
+Seguridad: La seguridad de la red es fundamental para proteger la información y los recursos de posibles 
+amenazas y ataques.
+
+    - Una arquitectura segura incluye medidas de seguridad como firewalls, sistemas de detección de 
+        intrusiones y cifrado.
+    - Ejemplo: Una red de datos de una institución financiera utiliza firewalls y sistemas de detección 
+        de intrusiones para proteger los datos confidenciales de los clientes y prevenir ataques maliciosos.
+
+3. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+Redes Orientadas a la Conexión: Los dispositivos establecen una conexión dedicada antes de intercambiar datos. 
+Un proceso de establecimiento de conexión acuerda parámetros y asigna recursos para la comunicación, lo que 
+permite un intercambio de datos eficiente. Ejemplos: redes telefónicas conmutadas.
+
+Redes No Orientadas a la Conexión: En estas redes, los dispositivos intercambian datos sin una conexión previa. 
+Cada paquete se envía independientemente y se enruta hacia el destino individualmente. No se necesita un 
+proceso de conexión. Ejemplos: redes IP, donde los paquetes pueden tomar rutas diferentes hacia su destino.
+
+4. Describa que es la calidad del servicio y responda: ¿Por qué importa la calidad del servicio en una red 
+de datos?
+
+La Calidad del servicio hace referencia a la capacidad de una red para administrar y priorizar diferentes 
+tipos de tráfico de manera eficiente y efectiva. Esto implica asignar niveles de prioridad a los diversos 
+flujos de datos en función de su importancia y requisitos de rendimiento.
+
+    - La importancia radica en varios factores como lo son un rendimiento óptimo, una reducción de la latencia, 
+        la prevención de congestión, optimización del ancho de banda y una mejora de la experiencia del usuario.
