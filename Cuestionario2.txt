@@ -37,3 +37,13 @@ INTERNET: Es una red global de redes interconectadas que permite la comunicació
 3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
 
 INTERNETWORK se refiere a la interconexión de redes individuales públicas o privadas, mientras que INTERNET es una red individual, es la red global más grande y conocida que forma parte del INTERNETWORK y pública que permite la comunicación de usuarios a nivel mundial.
+
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e
+interfaz de red.
+
+Tarjeta de interfaz de red (NIC): Es un dispositivo de hardware que se utiliza para conectar una computadora u otro dispositivo a una red. La NIC proporciona la conexión física entre el dispositivo y el medio de red, como un cable Ethernet. Es responsable de enviar y recibir datos a través de la red. La NIC también puede tener funciones adicionales, como la capacidad de conexión inalámbrica (Wi-Fi).
+
+Puerto físico: Es un conector o toma en un dispositivo de red donde se conecta el medio de red, como un cable Ethernet con un dispositivo host u otro dispositivo.
+
+Interfaz de red: Es un puerto especializado en un dispositivo de internetworking que se conecta con redes individuales. Una interfaz de red puede ser un puerto físico en un dispositivo de red o una interfaz virtual en un software de red. Los routers, por ejemplo, tienen múltiples interfaces de red que les permiten conectarse a diferentes redes y enrutar el tráfico entre ellas.
+
