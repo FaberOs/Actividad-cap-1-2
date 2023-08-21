@@ -53,3 +53,13 @@ amenazas y ataques.
         intrusiones y cifrado.
     - Ejemplo: Una red de datos de una institución financiera utiliza firewalls y sistemas de detección 
         de intrusiones para proteger los datos confidenciales de los clientes y prevenir ataques maliciosos.
+
+3. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+Redes Orientadas a la Conexión: Los dispositivos establecen una conexión dedicada antes de intercambiar datos. 
+Un proceso de establecimiento de conexión acuerda parámetros y asigna recursos para la comunicación, lo que 
+permite un intercambio de datos eficiente. Ejemplos: redes telefónicas conmutadas.
+
+Redes No Orientadas a la Conexión: En estas redes, los dispositivos intercambian datos sin una conexión previa. 
+Cada paquete se envía independientemente y se enruta hacia el destino individualmente. No se necesita un 
+proceso de conexión. Ejemplos: redes IP, donde los paquetes pueden tomar rutas diferentes hacia su destino.
