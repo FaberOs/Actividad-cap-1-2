@@ -66,3 +66,12 @@ En la suite de protocolos TCP/IP, también se utilizan PDUs para describir las u
   Capa de red: Paquete
   Capa de enlace de datos: Trama
   Capa física: Bits
+
+
+7. Explicar la función de los protocolos en las comunicaciones de redes y para
+qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que
+adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+Los protocolos desempeñan un papel fundamental en las comunicaciones de redes al establecer las reglas y los estándares que permiten a los dispositivos comunicarse entre sí de manera efectiva. Los protocolos definen cómo se deben enviar, recibir y procesar los datos en una red, asegurando que la información se transmita de manera confiable y eficiente.
+
+El proceso de encapsulamiento de los datos es el mecanismo mediante el cual los datos se envuelven en diferentes capas de protocolos a medida que descienden a través de la pila de protocolos. Cada capa agrega su propia información de control y encabezados a los datos originales, creando así una estructura de datos más compleja conocida como PDU. El encapsulamiento de los datos es esencial para el funcionamiento de las comunicaciones de redes, ya que permite que los datos sean transmitidos y procesados correctamente en cada capa. 
