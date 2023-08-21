@@ -19,3 +19,18 @@ Los dispositivos de red o intermedios, como routers, switches, hubs, modems y fi
 Los medios de red, como cables de cobre, fibra óptica y ondas de radio, se utilizan para transmitir la información entre los dispositivos, el uso de cada medio depende para la función que se requiera, teniendo en cuenta parámetros como distancia, ambiente, cantidad y velocidad de datos y el costo del medio y de la instalación.
 
 Los servicios de red, como DNS (Sistema de Nombres de Dominio), DHCP (Protocolo de Configuración Dinámica de Host) y HTTP (Protocolo de Transferencia de Hipertexto), permiten que los dispositivos se comuniquen entre sí y accedan a recursos en la red.
+
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN,
+INTERNETWORK E INTERNET.
+
+RED: Se refiere a un conjunto de dispositivos interconectados por un medio que permiten la comunicación y el intercambio de información. Puede ser una red local (LAN) o una red amplia (WAN).
+
+LAN (Local Area Network): Es una red de área local que conecta dispositivos en un área geográfica limitada, como una oficina, un edificio o un campus. Las LAN suelen ser propiedad y estar controladas por una organización.
+
+WAN (Wide Area Network): Es una red de área amplia que conecta dispositivos en áreas geográficas más grandes, como ciudades, países o incluso continentes. Las WAN suelen ser proporcionadas por proveedores de servicios de Internet y permiten la comunicación de LAN que están ubicadas en diferentes ubicaciones geográficas, para esto último generalmente se usa un TSP (proveedor de servicio de telecomunicaciones).
+
+INTERNETWORK: Se refiere a la interconexión de varias redes individuales para formar una red más grande. Puede incluir la interconexión de LAN y WAN para permitir la comunicación entre diferentes redes y ubicaciones. La INTERNETWORK conecta redes públicas (como el internet) o privadas(como redes gubernamentales o militares).
+
+INTERNET: Es una red global de redes interconectadas que permite la comunicación a nivel mundial. Es la red más grande y conocida, y se accede a ella a través de proveedores de servicios de Internet (ISP). Permite el acceso a recursos y servicios en línea, como sitios web, correo electrónico y transferencia de archivos
+
