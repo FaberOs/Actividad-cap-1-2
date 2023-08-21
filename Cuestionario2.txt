@@ -34,3 +34,6 @@ INTERNETWORK: Se refiere a la interconexión de varias redes individuales para f
 
 INTERNET: Es una red global de redes interconectadas que permite la comunicación a nivel mundial. Es la red más grande y conocida, y se accede a ella a través de proveedores de servicios de Internet (ISP). Permite el acceso a recursos y servicios en línea, como sitios web, correo electrónico y transferencia de archivos
 
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+INTERNETWORK se refiere a la interconexión de redes individuales públicas o privadas, mientras que INTERNET es una red individual, es la red global más grande y conocida que forma parte del INTERNETWORK y pública que permite la comunicación de usuarios a nivel mundial.
