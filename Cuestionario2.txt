@@ -50,3 +50,19 @@ Interfaz de red: Es un puerto especializado en un dispositivo de internetworking
 5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
 
 Un protocolo se considera independiente de la tecnología porque describe las funciones y reglas de comunicación sin especificar cómo se deben implementar esas funciones en particular. En otras palabras, un protocolo define qué funciones deben realizarse, pero no cómo realizarlas. Esta independencia de la tecnología permite que los protocolos sean utilizados en diferentes entornos y con diferentes tecnologías subyacentes. Además, facilita la interoperabilidad entre diferentes dispositivos y sistemas, ya que los protocolos pueden ser implementados de manera consistente independientemente de la tecnología utilizada.
+
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo
+(PDU).
+
+Una Unidad de Datos del Protocolo (PDU) es una porción de datos que se utiliza en cada capa del modelo de referencia OSI o en la suite de protocolos TCP/IP. La PDU contiene la información necesaria para que cada capa realice su función específica en el proceso de comunicación.
+
+En el modelo OSI, cada capa encapsula los datos que recibe de la capa superior en una PDU específica. A medida que los datos descienden a través de las capas, la PDU cambia de nombre para reflejar su nuevo aspecto.
+
+En la suite de protocolos TCP/IP, también se utilizan PDUs para describir las unidades de datos en cada capa:
+
+  Capa de aplicación: Datos
+  Capa de transporte: Segmento
+  Capa de red: Paquete
+  Capa de enlace de datos: Trama
+  Capa física: Bits
