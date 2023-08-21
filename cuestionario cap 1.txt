@@ -63,3 +63,13 @@ permite un intercambio de datos eficiente. Ejemplos: redes telefónicas conmutad
 Redes No Orientadas a la Conexión: En estas redes, los dispositivos intercambian datos sin una conexión previa. 
 Cada paquete se envía independientemente y se enruta hacia el destino individualmente. No se necesita un 
 proceso de conexión. Ejemplos: redes IP, donde los paquetes pueden tomar rutas diferentes hacia su destino.
+
+4. Describa que es la calidad del servicio y responda: ¿Por qué importa la calidad del servicio en una red 
+de datos?
+
+La Calidad del servicio hace referencia a la capacidad de una red para administrar y priorizar diferentes 
+tipos de tráfico de manera eficiente y efectiva. Esto implica asignar niveles de prioridad a los diversos 
+flujos de datos en función de su importancia y requisitos de rendimiento.
+
+    - La importancia radica en varios factores como lo son un rendimiento óptimo, una reducción de la latencia, 
+        la prevención de congestión, optimización del ancho de banda y una mejora de la experiencia del usuario.
