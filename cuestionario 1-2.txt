@@ -73,3 +73,40 @@ flujos de datos en función de su importancia y requisitos de rendimiento.
 
     - La importancia radica en varios factores como lo son un rendimiento óptimo, una reducción de la latencia, 
         la prevención de congestión, optimización del ancho de banda y una mejora de la experiencia del usuario.
+
+Capitulo 2
+
+1. Describir la estructura de una red, incluidos los dispositivos, medios y
+servicios necesarios para lograr comunicaciones exitosas.
+
+La arquitectura de red consiste en un mensaje, métodos con elementos (Emisor,
+receptor y medio), dispositivos finales, dispositivos intermedios y servicios.
+
+Los dispositivos finales o host, como computadoras, teléfonos, impresoras,
+cámaras de seguridad y servidores, son utilizados por los usuarios para acceder a la
+red y enviar y recibir información, son dispositivos que pueden ser de origen o de
+destino de la comunicación.
+
+Los dispositivos de red o intermedios, como routers, switches, hubs, modems y
+firewalls, se utilizan para dirigir el tráfico de la red y garantizar la seguridad y el
+rendimiento. Tienen algunas funciones como:
+    ● Regenerar y retransmitir señales de datos.
+    ● Mantener información sobre qué rutas existen a través de la red y de la
+    internetwork.
+    ● Notificar a otros dispositivos los errores y las fallas de comunicación,
+    ● Direccionar datos por rutas alternativas cuando existen fallas en un
+    enlace.
+    ● Clasificar y direccionar mensajes según las prioridades de QoS
+    (calidad de servicio).
+    ● Permitir o denegar el flujo de datos en base a configuraciones de
+    seguridad.
+
+Los medios de red, como cables de cobre, fibra óptica y ondas de radio, se utilizan
+para transmitir la información entre los dispositivos, el uso de cada medio depende
+para la función que se requiera, teniendo en cuenta parámetros como distancia,
+ambiente, cantidad y velocidad de datos y el costo del medio y de la instalación.
+
+Los servicios de red, como DNS (Sistema de Nombres de Dominio), DHCP
+(Protocolo de Configuración Dinámica de Host) y HTTP (Protocolo de Transferencia
+de Hipertexto), permiten que los dispositivos se comuniquen entre sí y accedan a
+recursos en la red.
